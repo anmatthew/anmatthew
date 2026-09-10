@@ -2,7 +2,7 @@
 ================================================================================================================================
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=E2F7C0&background=08154C00&width=435&lines=Howdy+Howdy%2C+Mola+here" alt="Typing SVG" /></a>
 
-I know used-less languages like Fortran, Pascal, & COBOL
+I know used-less languages like Fortran, Pascal, & COBOL or perhaps used to know.
 
 
 ![Alt text](MauiK.jpeg)
