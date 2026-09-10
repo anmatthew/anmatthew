@@ -2,6 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ================================================================================================================================
 
 I know dead languages like Fortran, Pascal, & COBOL
+![Alt text](images/your-photo.png)
 
 *   🌍  I'm based in Alta California
 *   🚀  I'm currently working on [a better Othello than the one I created on a TRS80 decades ago](http://www.matthewan.com)
