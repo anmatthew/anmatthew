@@ -1,6 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Mola here
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
 ================================================================================================================================
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E2F7C0&background=08154C00&width=435&lines=Howdy+Howdy%2C+Mola+here" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=E2F7C0&background=08154C00&width=435&lines=Howdy+Howdy%2C+Mola+here" alt="Typing SVG" /></a>
 
 I know used-less languages like Fortran, Pascal, & COBOL
 
