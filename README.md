@@ -7,7 +7,7 @@ I know used-less languages like Fortran, Pascal, & COBOL
 ![Alt text](MauiK.jpeg)
 
 *   🌍  I'm based in Alta California
-*   🚀  I'm currently working on [a better Othello than the one I created on a TRS80 decades ago](http://www.matthewan.com)
+*   🚀  I'm currently working on [a better Othello than the one created on my TRS80 decades ago](http://www.matthewan.com)
 *   🧠  I'm currently learning always
 *   👥  I'm looking to collaborate on finding great eats.
 *   💬  Ask me about Love Viet & Korean Food, Hawaii, Florida and Texas.
