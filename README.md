@@ -2,6 +2,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ================================================================================================================================
 
 I know dead languages like Fortran, Pascal, & COBOL
+
+
 ![Alt text](MauiK.jpeg)
 
 *   🌍  I'm based in Alta California
